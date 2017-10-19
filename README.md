@@ -57,6 +57,7 @@ When learning CS there are some useful sites you must know to get always informe
    
 # Articles on advice to junior or entry level developer
    * [Getting hired as a junior developer](https://medium.freecodecamp.org/how-to-get-hired-as-a-junior-web-developer-its-hard-but-you-can-do-it-f680c20f0285)
+   * [what language should I learn first](https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d)
    
 
 # Coding Style

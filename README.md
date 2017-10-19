@@ -54,6 +54,10 @@ When learning CS there are some useful sites you must know to get always informe
    * [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png)
    * [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/)
    * [Software design patterns and best practices](http://wiki.c2.com/)
+   
+# Articles on advice to junior or entry level developer
+   * [Getting hired as a junior developer](https://medium.freecodecamp.org/how-to-get-hired-as-a-junior-web-developer-its-hard-but-you-can-do-it-f680c20f0285)
+   
 
 # Coding Style
    * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
